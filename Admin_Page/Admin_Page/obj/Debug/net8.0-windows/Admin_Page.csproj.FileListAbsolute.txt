@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\bin\Debug\net8.0-windows\Admin_Page.exe
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\bin\Debug\net8.0-windows\Admin_Page.deps.json
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\bin\Debug\net8.0-windows\Admin_Page.runtimeconfig.json
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\bin\Debug\net8.0-windows\Admin_Page.dll
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\bin\Debug\net8.0-windows\Admin_Page.pdb
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.Form1.resources
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.dll
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\refint\Admin_Page.dll
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.pdb
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\ref\Admin_Page.dll
+C:\Users\Admin\source\repos\Admin_Page\Admin_Page\obj\Debug\net8.0-windows\Admin_Page.Properties.Resources.resources
